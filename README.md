@@ -1,3 +1,17 @@
+# ⚠️ HISTORICAL UPSTREAM FORK / LEGACY TOKEN-REGISTRY ATTEMPT
+
+This repository is an ICnews fork of the former `solana-labs/token-list` repository.
+
+The fork's historical repository description indicates that it was intended to support an IC DAO token-list integration. However, GitHub inspection of this fork has not verified an IC DAO-specific token entry or IC DAO-specific implementation commit.
+
+The upstream Solana Token Registry is **EOL / archived**. That lifecycle applies to this specific legacy token-registry mechanism — **not to Solana itself**. Solana remains the approved primary blockchain / execution direction for IC DAO, while token metadata and implementation mechanisms are subject to current architectural validation.
+
+This repository is **not** the current IC DAO development repository, institutional Source of Truth, or verified current token-metadata implementation source.
+
+The original upstream content is preserved below for historical reference. Its EOL instructions describe the upstream registry's lifecycle and should not be interpreted as the current IC DAO implementation state.
+
+---
+
 ---
 # 🚨🚨🚨This repository is EOL 🚨🚨🚨
 ## Read below for instructions on new token metadata flow
