@@ -181,4 +181,5 @@ U.S. export controls and sanctions law. This risk applies to
 individuals, organizations, and other ecosystem participants that
 deploy, integrate, or use the Solana blockchain protocol code directly
 (e.g., as a node operator), and individuals that transact on the Solana
-blockchain through light clients, third party interfaces, and/or wallet software.
+blockchain through light clients, third party interfaces, and/or wallet
+software.
